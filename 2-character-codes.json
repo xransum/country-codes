@@ -185,11 +185,11 @@
             "code": "CN"
         },
         {
-            "name": "Hong Kong, SAR China",
+            "name": "Hong Kong",
             "code": "HK"
         },
         {
-            "name": "Macao, SAR China",
+            "name": "Macao",
             "code": "MO"
         },
         {
@@ -213,7 +213,15 @@
             "code": "CG"
         },
         {
-            "name": "Congo, (Kinshasa)",
+            "name": "Brazzaville",
+            "code": "CG"
+        },
+        {
+            "name": "Congo",
+            "code": "CD"
+        },
+        {
+            "name": "Kinshasa",
             "code": "CD"
         },
         {
@@ -289,7 +297,11 @@
             "code": "ET"
         },
         {
-            "name": "Falkland Islands (Malvinas)",
+            "name": "Falkland Islands",
+            "code": "FK"
+        },
+        {
+            "name": "Malvinas",
             "code": "FK"
         },
         {
@@ -393,7 +405,15 @@
             "code": "HM"
         },
         {
-            "name": "Holy See (Vatican City State)",
+            "name": "Holy See",
+            "code": "VA"
+        },
+        {
+            "name": "Vatican City State",
+            "code": "VA"
+        },
+        {
+            "name": "Vatican",
             "code": "VA"
         },
         {
@@ -418,6 +438,10 @@
         },
         {
             "name": "Islamic Republic of Iran",
+            "code": "IR"
+        },
+        {
+            "name": "Iran",
             "code": "IR"
         },
         {
@@ -521,7 +545,11 @@
             "code": "LU"
         },
         {
-            "name": "Macedonia, Republic of",
+            "name": "Republic of Macedonia",
+            "code": "MK"
+        },
+        {
+            "name": "Macedonia",
             "code": "MK"
         },
         {
@@ -573,7 +601,11 @@
             "code": "MX"
         },
         {
-            "name": "Micronesia, Federated States of",
+            "name": "Federated States of Micronesia",
+            "code": "FM"
+        },
+        {
+            "name": "Micronesia",
             "code": "FM"
         },
         {
@@ -753,7 +785,7 @@
             "code": "LC"
         },
         {
-            "name": " Saint-Martin (French part)",
+            "name": "Saint-Martin",
             "code": "MF"
         },
         {
@@ -825,6 +857,10 @@
             "code": "GS"
         },
         {
+            "name": "South Georgia",
+            "code": "GS"
+        },
+        {
             "name": "South Sudan",
             "code": "SS"
         },
@@ -849,6 +885,10 @@
             "code": "SJ"
         },
         {
+            "name": "Svalbard and Jan Mayen",
+            "code": "SJ"
+        },
+        {
             "name": "Swaziland",
             "code": "SZ"
         },
@@ -861,7 +901,11 @@
             "code": "CH"
         },
         {
-            "name": "Syrian Arab Republic (Syria)",
+            "name": "Syrian Arab Republic",
+            "code": "SY"
+        },
+        {
+            "name": "Syria",
             "code": "SY"
         },
         {
@@ -873,7 +917,11 @@
             "code": "TJ"
         },
         {
-            "name": "Tanzania, United Republic of",
+            "name": "United Republic of Tanzania",
+            "code": "TZ"
+        },
+        {
+            "name": "Tanzania",
             "code": "TZ"
         },
         {
@@ -941,6 +989,10 @@
             "code": "US"
         },
         {
+            "name": "United States",
+            "code": "US"
+        },
+        {
             "name": "US Minor Outlying Islands",
             "code": "UM"
         },
@@ -957,7 +1009,11 @@
             "code": "VU"
         },
         {
-            "name": "Venezuela (Bolivarian Republic)",
+            "name": "Venezuela",
+            "code": "VE"
+        },
+        {
+            "name": "Bolivarian Republic",
             "code": "VE"
         },
         {
@@ -965,7 +1021,11 @@
             "code": "VN"
         },
         {
-            "name": "Virgin Islands, US",
+            "name": "US Virgin Islands",
+            "code": "VI"
+        },
+        {
+            "name": "Virgin Islands",
             "code": "VI"
         },
         {
